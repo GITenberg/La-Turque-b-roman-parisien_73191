@@ -1,5 +1,8 @@
 _repo: La-Turque-b-roman-parisien_73191
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73191-h/images/cover.jpg
 creator:
   author:
     agent_name: Montfort, Eugène
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52848
     wikipedia: https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Montfort
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73191#La-Turque-b-roman-parisien
 gutenberg_issued: '2024-03-18'
 gutenberg_type: Text
 identifiers:
